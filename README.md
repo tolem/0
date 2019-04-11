@@ -2,10 +2,12 @@
 
 Web Programming with Python and JavaScript
 
-#!important
+# !important
+
  The project links to  various sites' the author views visitor can glean important information also all images are used under MIT license.
 
-#folder/files
+# folder/files
+
 index.html contains cover and my recommendation for visitors.
 contact.html contains info to reach me by.
 table.html contains contents on my favorites
