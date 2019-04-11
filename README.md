@@ -2,7 +2,8 @@
 
 Web Programming with Python and JavaScript
 
-!important the project links to  various sites' the author views visitor can glean important information also all images are used under MIT license.
+!important
+ the project links to  various sites' the author views visitor can glean important information also all images are used under MIT license.
 
 ##folder/files
 index.html contains cover and my recommendation for visitors.
