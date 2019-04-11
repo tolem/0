@@ -1,7 +1,8 @@
 body{
-  margin: auto 0;
-  font-family: fantasy,ariel;
-  font-size: 1.6em;
+    margin: auto 0;
+    font-family: 'Yatra One', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.6em;
 }
 nav{
   background-color:#3F69AA;
