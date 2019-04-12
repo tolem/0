@@ -9,7 +9,11 @@ Web Programming with Python and JavaScript
 # folder/files
 
 index.html contains cover and my recommendation for visitors.
+
 contact.html contains info to reach me by.
+
 table.html contains contents on my favorites
+
 travel.html contains content on author top travel destination
+
 about.html a brief information pertaining to me
