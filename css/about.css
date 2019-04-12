@@ -1,12 +1,19 @@
 body{
   margin: auto 0;
-
+  font-family: 'Yatra One', cursive;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.4em;
+}
+nav {
+  background-color: #3F69AA;;
 }
 
 nav ul li {
   list-style: none;
   display: inline-block;
 }
-nav {
-  background-color: #3F69AA;;
+nav ul li img {
+
+  margin: 1vw 3vw ;
+  width:25%;
 }
