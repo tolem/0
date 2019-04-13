@@ -1,14 +1,28 @@
 body{
-    margin: auto 0;
+    margin: 0 auto;
     font-family: 'Yatra One', cursive;
     font-family: 'Ubuntu', sans-serif;
     font-size: 1.4em;
+    font-weight: 300;
 }
 nav{
     background-color: #3F69AA;
 
 
 }
+em{
+  text-align: right;
+  color: #FFF;
+  font-size: 1.6em;
+  margin : auto;
+}
+@media only screen and (max-width: 600px) {
+    .main-nav {
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+
 nav ul li{
   list-style: none;
   display: inline-block;
@@ -22,9 +36,17 @@ nav ul li a .logo-icon  {
    width:25%;
 
 }
+.container {
+    /*show heigh: auto*/
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
-.container{
-  margin:5%;
-  font-size:1.6rem;
+
+footer{
+    text-align: center;
+    background-color: #444;
 }

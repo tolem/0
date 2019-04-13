@@ -1,0 +1,22 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "description": "Web Programming with Python and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolem/project0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolem/project0/issues"
+  },
+  "homepage": "https://github.com/tolem/project0#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
