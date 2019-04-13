@@ -10,7 +10,10 @@ nav{
 
 
 }
-em{
+span{
+  margin: auto;
+}
+span > em{
   text-align: right;
   color: #FFF;
   font-size: 1.6em;
@@ -28,6 +31,9 @@ nav ul li{
   display: inline-block;
 
 
+}
+h1{
+  text-align:center;
 }
 
 nav ul li a .logo-icon  {
