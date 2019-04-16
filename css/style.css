@@ -1,9 +1,11 @@
 body{
     margin: 0 auto;
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Indie Flower', cursive, "Helvetica Neue", "sans-serif";
+    background-color: #fff;
+    letter-spacing: 1px;
     font-size: 1.4em;
     font-weight: 300;
-    background-image: url("../image/blue_background.jpg");
+    /* background-image: url("../image/blue_background.jpg"); */
 }
 nav{
     background-color: #0d2235;;
@@ -13,19 +15,22 @@ nav{
 }
 span{
   margin: auto;
-  
+
 }
 span > em{
   text-align: right;
   color: #FFF;
   font-size: 1.6em;
   margin : auto;
+  display:inline-block;
 }
+
 @media only screen and (max-width: 600px) {
-    .main-nav {
+    .container {
         font-size: 0.5em;
         padding: 0;
     }
+
 }
 
 
@@ -36,7 +41,7 @@ nav ul li{
 
 }
 
-h1{
+h2{
   text-align:center;
 }
 
@@ -45,19 +50,20 @@ nav ul li a .logo-icon  {
    width:25%;
 
 }
+nav .collapse .navbar-nav .nav-item .nav-link:hover{
+  color:grey;
+}
 nav ul li .nav-link{
   text-decoration: none;
   color:#fff;
 }
-.navbar-toggler-icon:before{
+.navbar-toggler-icon{
   background-image: url("../image/menu.png");
 }
-navbar-toggler-icon:after{
+/* navbar-toggler-icon{
   background-image: url("../image/menu/cancel.png");
-}
-.navbar-toggler-icon:hover{
- color: #fff;
-}
+} */
+
 .nav-link .logo-icon{
   width:50px;
 }
