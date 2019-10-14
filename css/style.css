@@ -60,6 +60,7 @@ nav ul li .nav-link{
 .navbar-toggler-icon{
   background-image: url("../image/menu.png");
 }
+
 /* navbar-toggler-icon{
   background-image: url("../image/menu/cancel.png");
 } */
@@ -73,8 +74,14 @@ nav ul li .nav-link{
     display: flex;
     align-items: center;
     justify-content: center;
+    /* background: url("image/welcome.jpg") no-repeat;
+    background-size: cover; */
 }
+.container .cover{
 
+   width: 35rem;
+
+}
 
 
 footer{

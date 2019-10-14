@@ -63,6 +63,14 @@ nav ul li a .logo-icon  {
 .navbar-toggler-icon{
   background-image: url("../image/menu.png");
 }
+footer a:hover {
+  text-decoration:none;
+  color: #fff;
+}
+
+footer a  {
+  color: #fff;
+}
 
 footer{
     text-align: center;

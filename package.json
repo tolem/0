@@ -2,9 +2,9 @@
   "name": "project0",
   "version": "1.0.0",
   "description": "Web Programming with Python and JavaScript",
-  "main": "index.js",
+
   "scripts": {
-    "compile:sass" :"node-sass sass/main.scss css/compile.css"
+    "compile:sass": "node-sass sass/main.scss css/compile.css"
   },
   "repository": {
     "type": "git",
