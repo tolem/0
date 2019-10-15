@@ -10,10 +10,10 @@ Web Programming with Python and JavaScript
 
 index.html contains Home directory
 
-contact.html contains info to reach me by.
+about.html contains info to reach me by.
 
-table.html contains contents on my favorites
+interest.html contains contents on my favorites
 
-travel.html contains content on author top travel destination
+fun.html contain some fun pics
 
-about.html a brief information pertaining to me
+ 
