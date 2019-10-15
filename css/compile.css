@@ -33,3 +33,14 @@ nav {
 
 i {
   margin-left: 2vw; }
+
+
+  .one{
+    background-image: url("../image/fun.jpg");
+    color: #fff;
+
+  }
+  .two{
+    background-image: url("../image/Bal.jpg");
+    color:#000;
+  }

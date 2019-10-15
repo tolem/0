@@ -82,7 +82,23 @@ nav ul li .nav-link{
    width: 35rem;
 
 }
+#A{
+  width: 20vh;
+  height: 10vw;
+  cursor: pointer;
+}
 
+#B{
+  width: 20vh;
+  height: 10vw;
+  cursor: pointer;
+}
+#C{
+  width: 20vh;
+  height: 10vw;
+  cursor: pointer;
+}
+ 
 
 footer{
     text-align: center;
