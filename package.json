@@ -17,7 +17,7 @@
   "homepage": "https://github.com/tolem/project0#readme",
   "devDependencies": {
     "node": "^11.13.0",
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "live-server": "^1.2.1"
